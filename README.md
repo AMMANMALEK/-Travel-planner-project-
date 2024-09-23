@@ -1,4 +1,4 @@
-# -Travel-planner-project using graph -
+# -Travel-planner-using graph -
 A travel planner project using a non-linear data structure, such as a graph, can be designed to help users find optimal routes, explore multiple destinations, and manage their travel plans efficiently. Here's a detailed description of such a project:
 
 ### Project Title: **Graph-Based Travel Planner**
